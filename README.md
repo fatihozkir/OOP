@@ -1,2 +1,2 @@
 # OOP
-How to create Object Oriented Programming Project
+Projenin amacı: Oop tabanlı sistemlerin genel çalışma mantığı ve organizasyonunun nasıl yapılableceğini öğretmektir.
